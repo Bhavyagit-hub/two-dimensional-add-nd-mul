@@ -1,1 +1,1 @@
-# two-dimensional-add-nd-mul
+# some-of-natural-numbers
